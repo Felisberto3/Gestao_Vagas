@@ -1,5 +1,9 @@
-#GESTÃO DE VAGAS 
+#GESTÃO DE VAGAS#
+
+
 Este é um aplicativo back end, criado com o framework SPRING BOOT. Capaz de criar empresa,vagas de emprego e candidatos para conconcorrer as mesmas vagas!
+
+
 ![gitignore - gestao_vagas - Visual Studio Code 23_11_2024 20_18_11](https://github.com/user-attachments/assets/61d4b03d-2464-4b8a-92a4-a829e54cbf0d)
 ![gitignore - gestao_vagas - Visual Studio Code 23_11_2024 20_18_07](https://github.com/user-attachments/assets/1704c2e7-fb3f-42fa-a7ef-fa553ea3156e)
 ![gitignore - gestao_vagas - Visual Studio Code 23_11_2024 20_17_59](https://github.com/user-attachments/assets/26a342b1-c0b5-440c-aff2-fd0d2034bcec)
